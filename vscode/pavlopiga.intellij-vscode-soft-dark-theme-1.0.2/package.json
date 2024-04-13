@@ -1,0 +1,57 @@
+{
+	"name": "intellij-vscode-soft-dark-theme",
+	"displayName": "Intellij+VsCode Soft Dark Theme",
+	"description": "Mix of IntelliJ IDEA theme and VsCode Dark+ theme with additional soft colors in editor",
+	"publisher": "PavloPiga",
+	"version": "1.0.2",
+	"engines": {
+		"vscode": "^1.75.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"license": "MIT",
+	"icon": "theme-icon.png",
+	"galleryBanner": {
+		"color": "#3c3f41",
+		"theme": "dark"
+	},
+	"keywords": [
+		"theme",
+		"dark",
+		"dark theme",
+		"intellij idea",
+		"darcula",
+		"darcula theme",
+		"jetbrains",
+		"jetbrains theme"
+	],
+	"homepage": "https://github.com/pavelpiha/intellij-vscode-soft-dark-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pavelpiha/intellij-vscode-soft-dark-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/pavelpiha/intellij-vscode-soft-dark-theme/issues"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "intellij-vscode-soft-dark-theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/intellij-vscode-soft-dark-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "ee64213a-66c8-4d24-8999-f09e1fe77f5b",
+		"publisherId": "653fb4d8-e2a5-4419-8988-df3bca188563",
+		"publisherDisplayName": "Pavlo Piga",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1709651944362,
+		"pinned": false
+	}
+}

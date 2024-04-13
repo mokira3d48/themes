@@ -1,0 +1,97 @@
+{
+	"name": "codeme-theme",
+	"displayName": "CodeMe Theme",
+	"description": "Dark soft theme",
+	"publisher": "Avetis",
+	"author": {
+		"name": "AvetisDN",
+		"email": "avetisdn@gmail.com"
+	},
+	"icon": "icon/codeme-theme.png",
+	"version": "0.1.1",
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"keywords": [
+		"theme",
+		"color-theme",
+		"dark theme",
+		"github",
+		"onedark",
+		"codeme",
+		"omni",
+		"tokyo",
+		"nord",
+		"dark",
+		"ayu",
+		"google dark"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AvetisDN/codeme-theme"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "CodeMe Tokyo",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codeme-tokyo-theme.json"
+			},
+			{
+				"label": "CodeMe Blueish",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codeme-blueish-theme.json"
+			},
+			{
+				"label": "CodeMe Nord",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codeme-nord-theme.json"
+			},
+			{
+				"label": "CodeMe Ayu",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codeme-ayu-theme.json"
+			},
+			{
+				"label": "CodeMe Omni",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codeme-omni-theme.json"
+			},
+			{
+				"label": "CodeMe Ash",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codeme-ash-theme.json"
+			},
+			{
+				"label": "CodeMe Dimmed",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codeme-dimmed-theme.json"
+			},
+			{
+				"label": "CodeMe Google Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codeme-gdark-theme.json"
+			},
+			{
+				"label": "CodeMe Gray",
+				"uiTheme": "vs-dark",
+				"path": "./themes/codeme-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "1314f02a-7d1e-46c5-bcc4-ce089c79607b",
+		"publisherId": "27fffc89-fbe8-492d-b944-fffcccaff4ad",
+		"publisherDisplayName": "Avetis",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1712977947744,
+		"pinned": false,
+		"source": "gallery"
+	}
+}
